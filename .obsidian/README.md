@@ -1,0 +1,1 @@
+This directory contains Obsidian-specific settings and configurations.
